@@ -1,0 +1,54 @@
+[
+    {
+        "postId": 1,
+        "iduser": 1,
+        "user": "Joao",
+        "email": "jaozin@gardner.biz",
+        "info": "Celular motoG3 problemano Touch precisa trocar o touch e fazer limpeza e colocar uma pelicula nova no celular",
+        "photo": {
+            "photo1": "https://files.tecnoblog.net/wp-content/uploads/2020/01/tela-quebrada-ashkan-forouzani-unsplash-e1683927801966-1060x596.jpg",
+            "photo2": "https://fs.npstatic.com/userfiles/6727621/image/2nd_YEAR/Samsung-S6/AndroidPIT-dead-galaxy-s6-3076-w782.jpg",
+            "photo3": "https://img1.gratispng.com/20180331/eiw/kisspng-broken-screen-prank-iphone-fake-broken-screen-desk-galaxy-5abfb717e70e92.6019331915225136879464.jpg"
+        }
+    },
+    {
+        "postId": 1,
+        "iduser": 2,
+        "user": "Joao",
+        "email": "jaozin@gardner.biz",
+        "info": "Celular motoG3 problemano Touch precisa",
+        "photo": {
+            "photo1": "https://files.tecnoblog.net/wp-content/uploads/2020/01/tela-quebrada-ashkan-forouzani-unsplash-e1683927801966-1060x596.jpg",
+            "photo2": "https://fs.npstatic.com/userfiles/6727621/image/2nd_YEAR/Samsung-S6/AndroidPIT-dead-galaxy-s6-3076-w782.jpg",
+            "photo3": "https://img1.gratispng.com/20180331/eiw/kisspng-broken-screen-prank-iphone-fake-broken-screen-desk-galaxy-5abfb717e70e92.6019331915225136879464.jpg"
+        }
+
+    },
+    {
+        "postId": 1,
+        "iduser": 3,
+        "user": "Joao",
+        "email": "jaozin@gardner.biz",
+        "info": "Celular motoG3 problemano Touch a",
+        "photo": {
+            "photo1": "https://files.tecnoblog.net/wp-content/uploads/2020/01/tela-quebrada-ashkan-forouzani-unsplash-e1683927801966-1060x596.jpg",
+            "photo2": "https://fs.npstatic.com/userfiles/6727621/image/2nd_YEAR/Samsung-S6/AndroidPIT-dead-galaxy-s6-3076-w782.jpg",
+            "photo3": "https://img1.gratispng.com/20180331/eiw/kisspng-broken-screen-prank-iphone-fake-broken-screen-desk-galaxy-5abfb717e70e92.6019331915225136879464.jpg"
+        }
+
+    },
+    {
+        "postId": 1,
+        "iduser": 4,
+        "user": "Joao",
+        "email": "jaozin@gardner.biz",
+        "info": "Celular motoG3 problemano Touch a",
+        "photo": {
+            "photo1": "https://files.tecnoblog.net/wp-content/uploads/2020/01/tela-quebrada-ashkan-forouzani-unsplash-e1683927801966-1060x596.jpg",
+            "photo2": "https://fs.npstatic.com/userfiles/6727621/image/2nd_YEAR/Samsung-S6/AndroidPIT-dead-galaxy-s6-3076-w782.jpg",
+            "photo3": "https://img1.gratispng.com/20180331/eiw/kisspng-broken-screen-prank-iphone-fake-broken-screen-desk-galaxy-5abfb717e70e92.6019331915225136879464.jpg"
+        }
+
+    }
+
+]
